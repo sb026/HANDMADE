@@ -1,0 +1,25 @@
+header {
+	background: #666;
+}
+
+p {
+	font-size: 25px;
+}
+
+#logo_search {
+	display: block;
+	float: left;
+}
+
+nav #nav_menu {
+	font-size: 18px;
+
+}
+
+
+ul li {
+	list-style: none;
+	padding-right: 30px;
+	display: inline-block;
+		float: right;
+}
